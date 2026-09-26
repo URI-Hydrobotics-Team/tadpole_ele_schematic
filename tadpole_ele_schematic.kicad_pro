@@ -294,6 +294,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -416,7 +417,7 @@
         "uuid": "cd7b1764-c096-4c01-b21e-66291b1b840f"
       }
     ],
-    "used_designators": "J1-8,#PWR1-4",
+    "used_designators": "J1-17,#PWR1-16",
     "variants": []
   },
   "sheets": [
@@ -427,6 +428,34 @@
     [
       "0ac150ac-1422-4bb2-8d15-ece622fb0573",
       "PWM Board"
+    ],
+    [
+      "8314b9c2-a6fe-4d62-90e6-f2d1374b7634",
+      "IMU"
+    ],
+    [
+      "ad3f8417-39f7-4497-96f5-6bc1e858587a",
+      "PI Ports"
+    ],
+    [
+      "c9ba2ad2-c894-49eb-aadd-5084ff3af939",
+      "Network Switch"
+    ],
+    [
+      "60790c3a-dcab-40c9-acd2-27d276018ddf",
+      "DC-DC"
+    ],
+    [
+      "f5b1424f-f4e9-473d-a7c9-50386f2545ac",
+      "Internal Camera"
+    ],
+    [
+      "aaef4f09-81f2-4cf7-8227-7c179413c308",
+      "Leak Sensor"
+    ],
+    [
+      "dde29722-bbb8-43b8-9c42-2d56ca0e13ca",
+      "Killswitch Module"
     ]
   ],
   "text_variables": {},

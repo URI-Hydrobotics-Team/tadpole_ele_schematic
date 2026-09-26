@@ -1,0 +1,19 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "72b5225a-fec1-4730-aa2c-f38fbde4a6b1")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "USB 2"
+		(shape bidirectional)
+		(at 7.524 0.8096 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "854ba476-e5a8-44fc-985f-1c2a53653dff")
+	)
+)
