@@ -2610,8 +2610,8 @@
 		(uuid "a4f90700-95cd-4a74-93b7-f5ca7b22b8b6")
 	)
 	(rectangle
-		(start 31.75 372.11)
-		(end 66.04 398.78)
+		(start 31.75 369.57)
+		(end 66.04 396.24)
 		(stroke
 			(width 0)
 			(type default)
@@ -2723,12 +2723,15 @@
 		)
 		(uuid "d438d7d0-0f81-4973-bdd7-fac404aba9fa")
 	)
-	(text "This needs power of some kind"
+	(text "This needs power of some kind\nbut idk what"
 		(exclude_from_sim no)
-		(at 244.094 221.996 0)
+		(at 254.762 228.092 0)
 		(effects
 			(font
 				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 0 7 1)
 			)
 		)
 		(uuid "d4916f08-9b2c-4829-a23f-7a54fe6abe9d")
@@ -2745,7 +2748,7 @@
 	)
 	(text "Start SW"
 		(exclude_from_sim no)
-		(at 48.514 370.332 0)
+		(at 48.514 367.792 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6344,7 +6347,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 46.99 388.62 180)
+		(at 46.99 386.08 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6355,7 +6358,7 @@
 		(fields_autoplaced yes)
 		(uuid "91d9e95d-2846-4411-8869-a41cdba4a095")
 		(property "Reference" "J17"
-			(at 46.99 379.73 0)
+			(at 46.99 377.19 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6365,7 +6368,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 46.99 382.27 0)
+			(at 46.99 379.73 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6375,7 +6378,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 46.99 388.62 0)
+			(at 46.99 386.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6386,7 +6389,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 46.99 388.62 0)
+			(at 46.99 386.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6397,7 +6400,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 46.99 388.62 0)
+			(at 46.99 386.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
