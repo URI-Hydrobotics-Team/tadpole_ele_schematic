@@ -5,6 +5,17 @@
 	(uuid "8c0e1f66-162f-46b7-805c-bc5cbe957b93")
 	(paper "A4")
 	(lib_symbols)
+	(hierarchical_label "GND"
+		(shape input)
+		(at 5.3848 5.8896 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "386a1e1d-3585-43d7-b708-f0be16ffa9ce")
+	)
 	(hierarchical_label "14V8 IN"
 		(shape input)
 		(at 9.1569 0.8096 180)
@@ -15,5 +26,27 @@
 			(justify right)
 		)
 		(uuid "75cb3754-fd2f-4202-bccd-557eb04fd848")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 3.3496 7.9474 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9c7dff7f-f0ad-4c9a-98e7-64981c59926a")
+	)
+	(hierarchical_label "KILL1"
+		(shape input)
+		(at 8.4296 7.9248 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c03f4cad-fd56-419b-915f-661e63fad141")
 	)
 )
