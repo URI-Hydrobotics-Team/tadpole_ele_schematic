@@ -5,4 +5,15 @@
 	(uuid "cdb65822-2ea9-43c4-b635-a7765fb7bfe9")
 	(paper "A4")
 	(lib_symbols)
+	(hierarchical_label "5V_B"
+		(shape output)
+		(at 6.0726 0.8096 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f4121b13-6c1a-4ec8-9140-39bb7405cb0b")
+	)
 )
